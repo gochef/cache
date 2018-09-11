@@ -18,6 +18,7 @@ type (
 		Address  string
 		Username string
 		Password string
+		Use bool
 	}
 
 	// Cache represents a cache instance
